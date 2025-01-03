@@ -1,4 +1,3 @@
-```markdown
 # Student Result Analysis
 
 ## Overview
@@ -90,5 +89,4 @@ The analysis revealed several key insights:
 - Parental marital status has little to no impact on academic performance.
 
 This project demonstrates how data analysis techniques can uncover meaningful patterns in educational datasets. Future work could include predictive modeling or deeper exploration of other factors influencing student performance.
-```
 
