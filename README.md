@@ -25,6 +25,14 @@ The dataset used in this project is titled `Expanded_data_with_more_features.csv
 - `ReadingScore`: Reading test score.
 - `WritingScore`: Writing test score.
 
+## Project Visuals
+
+![Screenshot (16)](https://github.com/user-attachments/assets/ee1eaaa4-862f-4b28-b4f3-74fa09642caf)
+![Screenshot (17)](https://github.com/user-attachments/assets/41fb3a71-acc3-4772-8896-ef3d5b53077c)
+![Screenshot (18)](https://github.com/user-attachments/assets/f747532e-f691-4b7d-9dba-945c9735d03a)
+![Screenshot (19)](https://github.com/user-attachments/assets/ac19cb41-3cc7-4f01-8d08-61114d51e43e)
+![Screenshot (20)](https://github.com/user-attachments/assets/707ec840-ef99-4c10-91ed-d9427069fded)
+
 ## Data Cleaning:
 
 - The `Unnamed: 0` column was dropped as it served no analytical purpose.
